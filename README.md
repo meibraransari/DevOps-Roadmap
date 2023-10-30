@@ -1,6 +1,8 @@
+<font size="5"> 
 <p align="center">
 <b> 📌 HAPPY LEARNING 📌 </b>
 </p>
+</font>  
 
 ## Please Note that the tools marked in Blue are the Recommended ones. However, you can choose to study Yellow or Pink.
 
