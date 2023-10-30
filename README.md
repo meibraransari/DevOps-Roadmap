@@ -1,5 +1,5 @@
 <p align="center">
-# 📌 HAPPY LEARNING 📌
+📌 HAPPY LEARNING 📌
 </p>
 
 ## Please Note that the tools marked in Blue are the Recommended ones. However, you can choose to study Yellow or Pink.
