@@ -846,6 +846,7 @@ Four Ace to Landing Your Dream Jobs
 - [Enhancv](https://enhancv.com/)
 - [Resume.io](https://resume.io/)
 - [Novoresume](https://novoresume.com/)
+- [ResumeAI](https://withresumeai.com/) - AI resume builder and free ATS checker
 - [Canva](https://www.canva.com/create/resumes/)
 - [Adobe](https://www.adobe.com/express/create/resume)
 
